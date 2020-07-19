@@ -1,6 +1,6 @@
 Hi! I'm Pepe 👋
 
-I'm currently doing a Data Analytics bootcamp in Berlin to acquire some hard skills to use data to make informed Product / Business decisions. 
+I'm currently doing a Data Analytics bootcamp in Berlin to acquire some *coding skills* to use data to make informed Product / Business decisions. 
 
 Quick intro to the projects that I've been working on: 
 
