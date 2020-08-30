@@ -1,6 +1,8 @@
 Hi! I'm Pepe 👋
 
-I'm currently doing a Data Analytics bootcamp in Berlin to acquire some *coding skills* to use data to make informed Product / Business decisions. 
+I'm currently working as **Teacher Assistant** at Ironhack Berlin. 
+
+I graduated from the Data Analytics Bootcamp in August 2020 where my main goal was to acquire some *coding skills* to use data to make informed Product / Business decisions. 
 
 Quick intro to the projects that I've been working on: 
 
