@@ -6,8 +6,8 @@ I graduated from the Data Analytics Bootcamp in August 2020. My main motivation 
 
 Quick intro to the projects that I've been working on: 
 
-- **final-project:** (work in progress)
-- **project-4:** Data Analytics for Product Management
+- **final-project:** Grocery Recommender
+- **product-analytics:** Data Analytics for Product Management
 - **project-3:** Data Visualizations with Tableau
 - **project-2:** COVID impact on household energy consumption
 - **project-1:** Build your own game with Python
