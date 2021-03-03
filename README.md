@@ -1,6 +1,6 @@
 Hi! I'm Pepe 👋
 
-I'm currently working as **Teacher Assistant** at Ironhack Berlin. 
+I'm currently working as **Product Manager** at Planetly.
 
 I graduated from the Data Analytics Bootcamp in August 2020. My main motivation to do the bootcamp was to acquire some *coding skills* to use data to make informed Product / Business decisions. Those skills will complement my +3 years of experience in the field. 
 
